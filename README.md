@@ -1,5 +1,5 @@
 # MHacks16collage
-A repo for collecting MHacks memories! 
+<h1>A repo for collecting MHacks memories!</h1>
 
 Heading to Opening Ceremony! 
 ![IMG_4694](https://github.com/yile-li/MHacks16collage/assets/86922636/6f518a45-52c9-45bf-b109-ce06aa074045)
